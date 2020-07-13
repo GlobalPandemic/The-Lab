@@ -1,5 +1,6 @@
 #Made by Cristian Di Bartolomeo
 #Only scan with permission!
+#------------------------------
 
 #Imports
 import socket
